@@ -1,0 +1,24 @@
+.mdui-chip {
+    max-width: 45%;
+    margin: .4em;
+}
+
+
+.right {
+    margin-left: 75%;
+    max-width: 25%;
+}
+
+#display {
+    max-height: calc(100% - 60px);
+    height: calc(100% - 60px);
+    overflow: scroll;
+}
+
+#parent, body, html {
+    height: 100%;
+}
+
+
+
+
